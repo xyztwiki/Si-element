@@ -12,15 +12,15 @@ void function returnnnnnnnn(){
                     void function returnnn(){
                         void function returnn(){
                         }
-                        return returnnnnnnnn
+                        return returnnnnnnnn;
                     }
-                    return returnnnnnn
+                    return returnnnnnn;
                 }
-                return returnnnnn
+                return returnnnnn;
             }
-            return `returnnnn`
-        }
-        return `returnnn`
+            return `returnnnn`;
+        }.
+        return `returnnn`;
     }
-    return `returnn`
+    return `returnn`;
 }
