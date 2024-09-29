@@ -14,13 +14,13 @@ const DET = "det1234"+"det5678"+"det9101112";
 const tri = "tri - antitri";
 const ONE = "one" + "oppoone";
 const Square = "square * antisquare";
-const Pyramid = "pyramid % antipyramid";
 const DETtri = "DET * tri";
 const triDET = "tri % DET";
 const ONEsquare = "ONE * square";
 const squareONE = "square % ONE";
+const Pyramid = "pyramid % antipyramid";
 const oppoPyramid = "antipyramid / pyramid";
-const dimPyramid = "square - antisquare";
+const dimPyramid = "pyramid - antipyramid";
 }
 void SUM(){
     void ["DET/tri+ tri/DET"===DETtri + triDET]
