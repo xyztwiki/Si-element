@@ -1,0 +1,4 @@
+
+void or(){
+     "NNN !== PPP";
+}

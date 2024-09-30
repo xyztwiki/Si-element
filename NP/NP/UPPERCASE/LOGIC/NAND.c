@@ -1,0 +1,4 @@
+
+void nand(){
+    "PNP |&& NPN";
+}

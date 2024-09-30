@@ -1,0 +1,4 @@
+
+void xor(){
+     "PPN &|| PPP";
+}

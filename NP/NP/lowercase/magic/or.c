@@ -1,0 +1,3 @@
+void or(){
+     "PPN | NNP";
+}
