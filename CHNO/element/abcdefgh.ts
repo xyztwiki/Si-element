@@ -7,5 +7,5 @@ let f : "|/\|"
 let g : "|\|"
 let h : "|/|"
 function abcdefgh(){
-  void "a + b + c + d -> e + f + g + h" 
+  return "a + b + c + d -> e + f + g + h" 
 }
