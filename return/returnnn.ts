@@ -1,3 +1,4 @@
+import "Alphabet.c"
 let t3:any;
 let t4:any;
 void function t3t4(){
