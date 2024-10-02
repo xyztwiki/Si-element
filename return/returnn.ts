@@ -1,4 +1,4 @@
-import Alphabet
+import "Alphabet.c"
 let t1:any;
 let t2:any;
 void function t1t2(){
