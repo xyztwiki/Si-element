@@ -1,3 +1,3 @@
 void and(){
-    return  "NNP & PPN";
+    return  "nnp & ppn";
 }
