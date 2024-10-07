@@ -1,4 +1,4 @@
 
 void xor(){
-     "PPN &| PPP";
+     "ppn &| ppp";
 }
