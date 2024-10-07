@@ -1,4 +1,4 @@
 
 void nor(){
-     "NPN &| PNP";
+     "npn &| pnp";
 }
