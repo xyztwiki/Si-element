@@ -1,3 +1,3 @@
 void or(){
-     "PPN | NNP";
+     "ppn | nnp";
 }
