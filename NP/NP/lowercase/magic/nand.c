@@ -1,4 +1,4 @@
 
 void nand(){
-     "PNP |& NPN";
+     "pnp |& npn";
 }
