@@ -1,5 +1,5 @@
-#include "chemistry.h"
-#include "color.h"
+#include "chemistry/CH.h"
+#include "color.css"
 struct impact(){
  char impact0 = "element1 + element2 + element3 + element4";
  char impact1 = "element5 - element6 - element7 - element8";
